@@ -59,7 +59,7 @@ ChatConnect/
 
 ## Author
 
-**Apurva Avinash Lohar**  
+**Sujal Rahul Shinde**  
 Student, **D Y Patil Agriculture and Technical University, Talsande**  
 Project developed under **Smart-Internz – Android Development with Kotlin (Externship Program)**
 
